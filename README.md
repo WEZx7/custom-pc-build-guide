@@ -8,6 +8,15 @@ This guide documents the complete process of planning, building, configuring, te
 
 The goal is to demonstrate practical PC hardware knowledge and IT support skills through a structured build workflow.
 
+## Documentation
+
+- [Example PC Build](example-build.md)
+- [Component Compatibility Checklist](compatibility-checklist.md)
+- [BIOS Setup Checklist](bios-setup-checklist.md)
+- [Windows Installation Checklist](windows-installation-checklist.md)
+- [Driver Installation Checklist](driver-installation-checklist.md)
+- [System Testing Checklist](system-testing-checklist.md)
+
 ## Build Workflow
 
 ### 1. Component Selection
